@@ -1,0 +1,25 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardVargas1/HotRestaurant_Activity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardVargas1/HotRestaurant_Activity/issues"
+  },
+  "homepage": "https://github.com/RichardVargas1/HotRestaurant_Activity#readme"
+}
